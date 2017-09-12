@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "ardalis@github.com:ardalis/HelloReveal.git"
+        "url": "https://ardalis@github.com:ardalis/HelloReveal.git"
     },
     "scripts": {
         "test": "grunt test"
